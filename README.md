@@ -20,7 +20,7 @@ Botumuzun Rapor Butonunda Kişinin Son 24 Saatteki Kanal açma,silme Rol açma,s
 
 !işlemler bilgi @Luffy Yaptığımızda Üyemizin Son İşlemi Gözükür.
 
-![bots6 png](https://user-images.githubusercontent.com/112646554/187966152-f26b3257-28b5-419c-aafc-8daa364a5e41.jpg)
+![botskoyulcak png](https://user-images.githubusercontent.com/112646554/187968043-fc1b7dab-7c08-4615-b240-2394bbe4a41d.jpg)
 
 Botumuzda !setup Komududa Vardır Bota Hiç Girmeden !setup Komudurya Botsahibi Sunucu Jail,Yönetici,Booster Rollerini Ve Log Kanalını Değiştirebildiğiniz Yerdir.
 
